@@ -15,9 +15,9 @@ len(top_level_comments)= 5
 len(replies)= 995
 len(valid_top_level_comments)= 5
 len(not_self_replies)= 995
-len(valid_replies)= 473
+len(valid_replies)= 498
 ========================================
-valid_comments= 478
+valid_comments= 503
 ========================================
 ```
 ## Score
