@@ -10,5 +10,13 @@ The link to this thread can be found [here](https://www.reddit.com/r/csci040temp
 ## Number of Comments
 The output I receive after running the program to count how many comments my bot created is:  
 ```
-
+len(comments)= 1000
+len(top_level_comments)= 5
+len(replies)= 995
+len(valid_top_level_comments)= 5
+len(not_self_replies)= 995
+len(valid_replies)= 473
+========================================
+valid_comments= 478
+========================================
 ```
